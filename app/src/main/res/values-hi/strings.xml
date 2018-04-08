@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">लॉग इन डेमो</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="pass">पारण शब्द</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="welcome">"स्वागत हे, %s, पारण शब्द: %s</string>
+</resources>
